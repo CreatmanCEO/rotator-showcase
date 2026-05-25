@@ -9,7 +9,7 @@ Built in 5 days. 262 tests. 10 MCP tools. ~3300 LOC. Single operator. No OpenAI 
 ## Problem
 
 Claude Code is stateless between sessions. It forgets decisions, loses context,
-and cannot listen to your voice. Every new conversation starts from zero --
+and cannot real-time listen to your voice. Every new conversation starts from zero --
 you re-explain the same project map, re-search for the same events, re-establish
 the same constraints.
 
